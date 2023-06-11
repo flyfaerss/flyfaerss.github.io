@@ -1,19 +1,19 @@
 # Basic Information 
-title: Kaihua Tang
-titlecn: 汤凯华
+title: Jiarui Yang
+titlecn: 杨嘉瑞
 #position: Senior Engineer
-affiliation: Huawei Singapore Research Center 
-email: tkhchipaomian (at) gmail.com
+affiliation: IIE CAS
+email: yangjiarui@iie.ac.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: homepage
-description: This is the academic homepage of Dr. Kaihua Tang.
-canonical: https://kaihuatang.github.io/
+description: This is the academic homepage of M.S. Jiarui Yang.
+canonical: https://flyfaerss.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com.sg/citations?user=WuO1sSkAAAAJ&hl=en
+google_scholar: https://scholar.google.com/
 github_link: https://github.com/flyfaerss
 
 # Images (e.g., your profile picture and your website's favicon) 
