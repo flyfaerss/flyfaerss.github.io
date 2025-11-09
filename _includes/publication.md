@@ -63,6 +63,27 @@
 </div>
 </li>
 
+
+<br>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/aaai26.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">AAAI</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Actor-Critic for Continuous Action Chunks: A Reinforcement Learning Framework for Long-Horizon Robotic Manipulation with Sparse Reward</div>
+    <div class="author"><strong>Jiarui Yang</strong>, Bin Zhu, Jingjing Chen, Yu-Gang Jiang</div>
+    <div class="periodical"><em>Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2026 (<strong>oral</strong>).</em></div>
+  </div>
+
+</div>
+</li>
+
 <br>
 
 
