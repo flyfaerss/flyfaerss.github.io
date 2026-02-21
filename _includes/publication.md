@@ -96,7 +96,7 @@
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title">RC-NF: Robot-Conditioned Normalizing Flow for Real-Time Anomaly Detection in Robotic Manipulation</div>
-    <div class="author">Shijie Zhou, Bin Zhu, <strong>Jiarui Yang</strong>, Bin Zhu, Xiangyu Zhao, Jingjing Chen, Yu-Gang Jiang</div>
+    <div class="author">Shijie Zhou, Bin Zhu, <strong>Jiarui Yang</strong>, Xiangyu Zhao, Jingjing Chen, Yu-Gang Jiang</div>
     <div class="periodical"><em>IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.</em></div>
   </div>
 
