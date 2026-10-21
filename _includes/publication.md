@@ -9,14 +9,14 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/tip23.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">TIP</abbr>
+    <img src="assets/img/cvpr26.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Adaptive Feature Learning for Unbiased Scene Graph Generation</div>
-    <div class="author"><strong>Jiarui Yang</strong>, Chuan Wang, Liang Yang, Yuchen Jiang, Angelina Cao</div>
-    <div class="periodical"><em>IEEE Transactions on Image Processing <strong>(TIP)</strong>, 2023.</em></div>
+    <div class="title">RC-NF: Robot-Conditioned Normalizing Flow for Real-Time Anomaly Detection in Robotic Manipulation</div>
+    <div class="author">Shijie Zhou, Bin Zhu, <strong>Jiarui Yang</strong>, Xiangyu Zhao, Jingjing Chen, Yu-Gang Jiang</div>
+    <div class="periodical"><em>IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.</em></div>
   </div>
 
 </div>
@@ -30,14 +30,14 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/mm23.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">MM</abbr>
+    <img src="assets/img/aaai26.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">AAAI</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Focusing on Flexible Masks: A Novel Framework for Panoptic Scene Graph Generation with Relation Constraints</div>
-    <div class="author"><strong>Jiarui Yang</strong>, Chuan Wang, Zeming Liu, Jiahong Wu, Dongsheng Wang, Liang Yang, Xiaochun Cao</div>
-    <div class="periodical"><em>ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2023.</em></div>
+    <div class="title">Actor-Critic for Continuous Action Chunks: A Reinforcement Learning Framework for Long-Horizon Robotic Manipulation with Sparse Reward</div>
+    <div class="author"><strong>Jiarui Yang</strong>, Bin Zhu, Jingjing Chen, Yu-Gang Jiang</div>
+    <div class="periodical"><em>Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2026 (<strong>oral</strong>).</em></div>
   </div>
 
 </div>
@@ -71,14 +71,14 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/aaai26.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">AAAI</abbr>
+    <img src="assets/img/mm23.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">MM</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Actor-Critic for Continuous Action Chunks: A Reinforcement Learning Framework for Long-Horizon Robotic Manipulation with Sparse Reward</div>
-    <div class="author"><strong>Jiarui Yang</strong>, Bin Zhu, Jingjing Chen, Yu-Gang Jiang</div>
-    <div class="periodical"><em>Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2026 (<strong>oral</strong>).</em></div>
+    <div class="title">Focusing on Flexible Masks: A Novel Framework for Panoptic Scene Graph Generation with Relation Constraints</div>
+    <div class="author"><strong>Jiarui Yang</strong>, Chuan Wang, Zeming Liu, Jiahong Wu, Dongsheng Wang, Liang Yang, Xiaochun Cao</div>
+    <div class="periodical"><em>ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2023.</em></div>
   </div>
 
 </div>
@@ -90,14 +90,14 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/cvpr26.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">CVPR</abbr>
+    <img src="assets/img/tip23.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">TIP</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title">RC-NF: Robot-Conditioned Normalizing Flow for Real-Time Anomaly Detection in Robotic Manipulation</div>
-    <div class="author">Shijie Zhou, Bin Zhu, <strong>Jiarui Yang</strong>, Xiangyu Zhao, Jingjing Chen, Yu-Gang Jiang</div>
-    <div class="periodical"><em>IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.</em></div>
+    <div class="title">Adaptive Feature Learning for Unbiased Scene Graph Generation</div>
+    <div class="author"><strong>Jiarui Yang</strong>, Chuan Wang, Liang Yang, Yuchen Jiang, Angelina Cao</div>
+    <div class="periodical"><em>IEEE Transactions on Image Processing <strong>(TIP)</strong>, 2023.</em></div>
   </div>
 
 

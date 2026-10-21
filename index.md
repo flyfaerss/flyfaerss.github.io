@@ -9,9 +9,9 @@ Prof. Yu-Gang Jiang. Before that, I obtained B.E. degree in Computer Science and
 advised by Prof. Kejun Zhang and M.S. degree at the Institute of Information Engineering (IIE), Chinese Academy of 
 Sciences, advised by Prof. Chuan Wang.
 
-My current research interests lie at the intersection of Embodied Intelligence and Reinforcement Learning, with a
-particular focus on real-world robot reinforcement learning, real-world RL infrastructure, and reinforcement learning
-algorithms. I am also broadly interested in embodied agents and embodied recursive self-improvement (RSI). I am
+My current research interests lie at the intersection of Embodied Intelligence and Reinforcement Learning,
+<strong>with a particular focus on real-world robot reinforcement learning, real-world RL infrastructure, and reinforcement learning algorithms</strong>.
+I am also broadly interested in embodied agents and embodied recursive self-improvement (RSI). I am
 dedicated to building autonomous learning systems for robots, with the ultimate goal of enabling agents to acquire
 complex skills and adapt to dynamic, real-world environments with minimal human intervention.
 
